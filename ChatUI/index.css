@@ -1,0 +1,49 @@
+.bg-container {
+    background-image: url('./chatbg.png');
+    height: 100vh;
+    font-family: Roboto;
+}
+
+.main-header-heading {
+    background-color: #323f4b;
+    padding: 10px;
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    margin-bottom: 40px;
+}
+
+.chats-container {
+    margin: 20px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.chatting-obtion {
+    padding: 12px;
+    color: white;
+}
+
+.align-right {
+    text-align: right;
+}
+
+.align-left {
+    text-align: left;
+}
+
+.blue-background {
+    background-color: #47a3f3;
+}
+
+.grey-background {
+    background-color: #52606d;
+}
+
+.b-left-radius {
+    border-bottom-left-radius: 10px;
+}
+
+.b-right-radius {
+    border-bottom-right-radius: 10px;
+}
