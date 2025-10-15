@@ -1,0 +1,38 @@
+.goa-text-container {
+    padding: 20px;
+}
+
+
+
+.goa-main-heading {
+    font-size: 22px;
+    font-family: Roboto;
+    font-weight: 500;
+    color: #323f4b;
+}
+
+.goa-description {
+    font-size: 15px;
+    font-family: Roboto;
+    color: #9aa5b1;
+}
+
+.more-image-card {
+    margin-left: 15px;
+}
+
+.image-card {
+    padding-left: 5px;
+}
+
+.video-text {
+    margin-left: 20px;
+    margin-top: 4px;
+}
+
+.youtube-video-card {
+    margin: 15px;
+    padding-left: 5px;
+    border-radius: 10px;
+    height: 120px;
+}
