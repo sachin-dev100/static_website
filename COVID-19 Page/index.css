@@ -1,0 +1,87 @@
+.covid-bg-container {
+    padding: 10px;
+    font-family: Roboto;
+}
+
+.covid-main-heading {
+    font-size: 18px;
+    font-weight: 500;
+    color: #323f4b;
+}
+
+.covid-header-button {
+    height: 28px;
+    width: 90px;
+    border-radius: 5px;
+    background-color: #0967d2;
+    color: white;
+    font-size: 12px;
+    border-width: 0px;
+}
+
+.covid-header-image {
+    height: 80px;
+}
+
+.covid-card {
+    background-color: #0967d219;
+    padding: 10px;
+    border-radius: 15px;
+}
+
+.covid-corona-image {
+    height: 44px;
+    margin-right: 10px;
+    margin-top: 5px;
+}
+
+.covid-corona-main-heading {
+    font-size: 15px;
+    color: #323f4b;
+    font-weight: 600;
+}
+
+.covid-corona-main-paragraph {
+    font-size: 10px;
+    color: #707070;
+    font-weight: 500;
+}
+
+.covid-img1-bg {
+    width: 85px;
+    background-color: #3ebd93;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.covid-img-heading {
+    font-size: 13px;
+    color: white;
+}
+
+.covid-img2-bg {
+    width: 85px;
+    background-color: #e668a7;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.covid-img3-bg {
+    width: 85px;
+    background-color: #a368fc;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.covid-more-know-card {
+    background-color: #e12d3919;
+    border-radius: 15px;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+}
+
+.covid-doctor-image {
+    height: 50px;
+    margin-right: 10px;
+}
