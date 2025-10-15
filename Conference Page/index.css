@@ -1,0 +1,46 @@
+.conference-bg-container {
+    text-align: center;
+    font-family: Roboto;
+    padding: 20px;
+}
+
+.conference-main-heading {
+    font-size: 30px;
+    margin-left: 20px;
+    margin-top: 10px;
+    font-weight: bold;
+    color: #183b56;
+}
+
+.conference-img {
+    height: 220px;
+}
+
+.Conference-main-page-decription {
+    margin: 20px;
+    color: #5a7184;
+}
+
+.detailed-view-container {
+    padding: 20px;
+    text-align: center;
+}
+
+.detailed-view-main-heading {
+    font-size: 25px;
+    font-weight: bold;
+    font-family: Roboto;
+    margin: 15px;
+    color: #183b56;
+}
+
+.detailed-view-description {
+    font-family: roboto;
+    color: #5a7184;
+    font-size: 15px;
+}
+
+.flex-container {
+    margin-left: 10px;
+    margin-right: 10px;
+}
