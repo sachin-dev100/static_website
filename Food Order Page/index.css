@@ -1,0 +1,35 @@
+.bg-container {
+    background-image: url('./foodbg.png');
+    height: 100vh;
+    background-size: cover;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.text-card {
+    background-color: #f6c56e;
+    padding: 20px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+.main-heading {
+    font-size: 30px;
+    color: #323f4b;
+}
+
+.main-paragraph {
+    font-size: 17px;
+    color: #323f4b;
+    font-weight: bold;
+}
+
+.custom-button {
+    height: 30px;
+    width: 120px;
+    border-radius: 10px;
+    background-color: white;
+    font-size: 13px;
+    font-family: Roboto;
+    font-weight: 500;
+    border-width: 0px;
+}
