@@ -1,0 +1,46 @@
+.movie-bg-container {
+    background-image: url('./orange-color-bg.png');
+    min-height: 100vh;
+    background-size: cover;
+    padding: 20px;
+    color: white;
+    font-family: Roboto;
+    margin-top: 3px;
+}
+
+
+.movie-main-heading {
+    font-size: 25px;
+    margin-top: 10px;
+    margin-right: 25px;
+    font-family: Roboto;
+    font-weight: bold;
+    color: white;
+}
+
+.movie-watch-button {
+    margin-top: 10px;
+    height: 35px;
+    width: 100px;
+    border-radius: 10px;
+    font-size: 13px;
+    color: #ff8348;
+    background-color: white;
+    font-family: Roboto;
+    border-width: 0px;
+}
+
+.movie-paragraph {
+    font-size: 13px;
+    margin-top: 9px;
+}
+
+.movie-sub-heading {
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.movie-similar-image {
+    margin-left: 5px;
+    margin-top: 3px;
+}
