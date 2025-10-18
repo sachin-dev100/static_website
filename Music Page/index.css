@@ -1,0 +1,94 @@
+.container-not-display{
+    display: none;
+}
+
+.music-bg-container {
+    background-color: #03174c;
+    min-height: 100vh;
+    background-size: cover;
+    text-align: center;
+    font-family: bree serif;
+    color: white;
+}
+
+.music-top-section-card {
+    background-image: url('./moon-stars-bg.png');
+    height: 50vh;
+    background-size: cover;
+    padding: 25px;
+}
+
+.music-top-section-heading {
+    font-size: 25px;
+    margin-top: 45px;
+}
+
+.music-top-section-description {
+    font-size: 14px;
+}
+
+.music-center-card {
+    background-image: url("./moon-bg.png");
+    height: 32vh;
+    background-size: cover;
+}
+
+.music-center-card {
+    margin: 20px;
+}
+
+.music-card-heading {
+    font-size: 30px;
+    padding-top: 60px;
+}
+
+.bottom-padding {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.button {
+    height: 30px;
+    width: 100px;
+    border-radius: 20px;
+    font-size: 13px;
+    background-color: #8e97fd;
+    color: white;
+    border-width: 0px;
+}
+
+.night-island-bg-container {
+    background-color: #03174c;
+    min-height: 100vh;
+    font-family: bree serif;
+}
+
+.night-island-top-section-card {
+    background-image: url('./clouds-img.png');
+    height: 50vh;
+    background-size: cover;
+}
+
+.night-island-bottom-card {
+    padding: 15px;
+}
+
+.night-island-bottom-heading {
+    font-size: 26px;
+    color: white;
+}
+
+.night-island-bottom-description {
+    font-size: 13px;
+    color: #98a1bd;
+}
+
+.text-size {
+    font-size: 18px;
+}
+
+.night-island-image-style {
+    height: 100px;
+    width: 130px;
+    margin-right: 10px;
+}
