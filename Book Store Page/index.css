@@ -1,0 +1,106 @@
+
+@import url("https://fonts.googleapis.com/css2?family=Roboto&family=Open+Sans&family=Bree+Serif&display=swap");
+
+.container-not-display{
+    display: none;
+}
+
+.popular-book-bg-container {
+    background-color: #1b1b1b;
+    height: 120vh;
+    background-size: cover;
+    padding: 20px;
+}
+
+.popular-top-section-heading {
+    font-family: Bree Serif;
+    font-size: 26px;
+    color: #ffffff;
+}
+
+.popular-book-card {
+    background-color: #e6f6ff;
+    border-radius: 10px;
+}
+
+.popular-book-image {
+    height: 170px;
+    width: 120px;
+}
+
+.popular-book-text-section {
+    padding: 10px;
+}
+
+.popular-book-text-main-heading {
+    font-size: 20px;
+    font-family: Bree Serif;
+    color: #183b56;
+}
+
+.popular-book-text-description {
+    font-size: 15px;
+    font-family: Bree Serif;
+}
+
+.popular-book-text-author {
+    font-size: 10px;
+    font-family: Bree Serif;
+    color: #06070d;
+}
+
+.button {
+    height: 25px;
+    width: 80px;
+    text-align: center;
+    font-size: 12px;
+    border-radius: 10px;
+    border-width: 0px;
+}
+
+.font-small {
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+.recommended-image {
+    height: 120px;
+    width: 73px;
+    margin-bottom: 10px;
+}
+
+.recommended-text-container {
+    padding-left: 10px;
+}
+
+.font-two-small {
+    font-size: 17px;
+}
+
+.font-three-small {
+    font-size: 12px;
+    color: #e4e7eb;
+}
+
+.particular-image {
+    height: 250px;
+    width: 170px;
+    margin-left: 60px;
+}
+
+.font-margin {
+    margin-top: 10px;
+    text-align: center;
+}
+
+.font-color {
+    color: #9aa5b1;
+}
+
+.font-align {
+    text-align: left;
+}
+
+.button-card {
+    text-align: center;
+}

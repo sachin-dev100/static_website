@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <title>Book Store Page</title>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href = "./index.css"/>
+</head>
+  <body>
+    <div id="sectionhome">
+        <div class="popular-book-bg-container">
+            <h1 class="popular-top-section-heading"> Popular Book</h1>
+            <div class="popular-book-card d-flex flex-row">
+                <div>
+                    <img src="./book-apj-img.png" class="popular-book-image" />
+                </div>
+                <div class="popular-book-text-section">
+                    <h1 class="popular-book-text-main-heading"> Wings of Fire </h1>
+                    <p class="popular-book-text-description"> An Autobiography of Abdul kalam</p>
+                    <p class="popular-book-text-author"> by Arun Tiwari</p>
+                    <button class="btn-primary btn" onclick="display('sectionwingsoffire')"> Read Now </button>
+                </div>
+            </div>
+            <h1 class="popular-top-section-heading font-small"> Recommended Books</h1>
+            <div class="d-flex flex-row">
+                <div>
+                    <img src="./book-chetan-bhagat-img.png" class="recommended-image" />
+                </div>
+                <div class="recommended-text-container">
+                    <h1 class="popular-top-section-heading font-two-small"> The 3 mistakes of my life</h1>
+                    <p class="popular-top-section-heading font-three-small"> Indian author <br> by Chetan Bhagat</p>
+                    <button class="button btn-primary"> Read Now</button>
+                </div>
+            </div>
+            <div class="d-flex flex-row">
+                <div>
+                    <img src="./harrypotter-img.png" class="recommended-image" />
+                </div>
+                <div class="recommended-text-container">
+                    <h1 class="popular-top-section-heading font-two-small"> Harry Potter</h1>
+                    <p class="popular-top-section-heading font-three-small"> and the Sorcerer's Stone <br> by J.K.Rowling</p>
+                    <button class="button btn-primary"> Read Now</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="sectionwingsoffire" class= "container-not-display">
+        <div class="popular-book-bg-container">
+            <div>
+                <img src="./book-apj-img.png" class="particular-image" />
+                <h1 class="popular-top-section-heading font-margin"> Wings of Fire</h1>
+                <p class="popular-top-section-heading font-three-small font-margin font-color"> by Arun Tiwari</p>
+                <p class="popular-top-section-heading font-three-small font-margin font-align">
+                    Every common man who by his sheer grit and hard work achieve success should share his story with the rest for they man find inspiration and strength to go on, in his
+                    story. The 'Wings of fire' is one such Autobiography by visionary scientists Dr. APJ Abdul Kalam.who from very humble beginnings rose to be the president of india. The book is full of insight, personal moments
+                    and life experiences of Dr. Kalam. It gives us an understanding on his journey of success.
+                </p>
+            </div>
+            <div class="button-card">
+                <button class="button btn-warning" onclick = 'display("sectionhome")'>Back</button>
+                <button class="button btn-primary">Buy Now</button>
+            </div>
+        </div>
+    </div>
+    <script type="text/javascript" src="./index.js"></script>
+      
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+  </body>
+</html>
