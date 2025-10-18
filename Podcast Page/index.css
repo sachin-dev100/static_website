@@ -1,0 +1,91 @@
+.container-not-display{
+    display: none;
+}
+
+.podcaste-top-section-container {
+    background-image: url('./podcasts-bg.png');
+    height: 40vh;
+    background-size: cover;
+    padding: 20px;
+}
+
+.top-setion-heading {
+    color: white;
+    font-family: Roboto;
+    font-size: 30px;
+}
+
+.podcast-puri-jagannadh {
+    margin-top: 10px;
+    padding: 10px;
+    text-align: center;
+    color: #5a7184;
+}
+
+.podcast-image {
+    height: 110px;
+    width: 130px;
+}
+
+.particular-podcast-name {
+    font-size: 15px;
+    margin: 5px;
+    color: #151765;
+    font-weight: bold;
+
+}
+
+.top-section-puri-podcast {
+    background-color: #151765;
+    height: 30vh;
+    background-size: cover;
+    padding: 20px;
+    font-family: Roboto;
+}
+
+.top-section-puri-text-container {
+    margin-left: 10px;
+    color: white;
+}
+
+.top-section-puri-decription {
+    font-size: 12px;
+}
+
+.top-section-puri-heading {
+    font-size: 20px;
+}
+
+.bottom-section-puri-podcast {
+    margin: 15px;
+}
+
+.bottom-section-puri-text-container {
+    color: black;
+    padding-left: 10px;
+}
+
+.bottom-section-puri-heading {
+    font-size: 15px;
+    color: #151765;
+    font-weight: bold;
+}
+
+.bottom-section-puri-decription {
+    font-size: 13px;
+    color: #5a7184;
+    font-weight: 500;
+}
+
+.back-button {
+    text-align: right;
+    padding: 10px;
+}
+
+.button {
+    border-radius: 20px;
+    background-color: #151765;
+    color: white;
+    width: 70px;
+    font-size: 15px;
+}
